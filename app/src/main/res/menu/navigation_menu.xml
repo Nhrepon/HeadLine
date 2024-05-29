@@ -3,14 +3,34 @@
 
 
     <group>
-        <item android:title="Trending"
-            android:checkable="true"/>
-        <item android:title="Most Popular"
-            android:checkable="true"/>
+        <item
+            android:title="Trending"
+            android:icon="@drawable/trending"
+            android:checkable="true"
+            />
+        <item
+            android:title="Most Popular"
+            android:icon="@drawable/visibility"
+            android:checkable="true"
+            />
     </group>
     <group>
-        <item android:title="Privecy Policy" />
-        <item android:title="Terms &amp; Condition" />
+        <item
+            android:title="Privecy Policy"
+            android:icon="@drawable/privacy_tip"
+            />
+        <item
+            android:title="Terms &amp; Condition"
+            android:icon="@drawable/rule"
+            />
+        <item
+            android:title="About"
+            android:icon="@drawable/people"
+            />
+        <item
+            android:title="More apps"
+            android:icon="@drawable/get_app"
+            />
     </group>
 
 </menu>

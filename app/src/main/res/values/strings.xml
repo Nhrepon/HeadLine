@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Headline</string>
+    <string name="app_name">HeadLine</string>
     <string name="drawer_close">Close Drawer</string>
     <string name="drawer_open">Open Drawer</string>
 </resources>

@@ -10,12 +10,12 @@
         />
     <item
         android:icon="@drawable/trending"
-        android:title="Home"
+        android:title="Trending"
         android:checkable="true"
         />
     <item
         android:icon="@drawable/bookmark"
-        android:title="Home"
+        android:title="Bookmark"
         app:showAsAction="ifRoom"
         android:checkable="true"
         />
