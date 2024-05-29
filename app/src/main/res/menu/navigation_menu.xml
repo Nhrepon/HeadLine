@@ -4,11 +4,13 @@
 
     <group>
         <item
+            android:id="@+id/navMenuTrending"
             android:title="Trending"
             android:icon="@drawable/trending"
             android:checkable="true"
             />
         <item
+            android:id="@+id/navMenuMostpopular"
             android:title="Most Popular"
             android:icon="@drawable/visibility"
             android:checkable="true"
